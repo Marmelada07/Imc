@@ -1,0 +1,19 @@
+#card{
+    width: 70%;
+    background-color: burlywood;
+    margin: auto;
+    text-align: center;
+    padding: 25px;
+    border-radius: 15px;
+}
+input{
+    text-align: center;
+    border-radius: 15px;
+    margin-top: 15px;
+    padding: 15px;
+}
+#bota0{
+    background-color: red;
+    color: aliceblue;
+    font-size: large;
+}
